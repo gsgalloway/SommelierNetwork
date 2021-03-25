@@ -166,7 +166,7 @@
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "cosmos1gwdxy0ah0770ctqx3ue4jzedq0q0jl9eqfm57y",
+          "address": "cosmos1ymy6sx49d538gtdw2y6jnqwhcv3v9de85e9034",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
@@ -256,7 +256,7 @@
           ]
         },
         {
-          "address": "cosmos1gwdxy0ah0770ctqx3ue4jzedq0q0jl9eqfm57y",
+          "address": "cosmos1ymy6sx49d538gtdw2y6jnqwhcv3v9de85e9034",
           "coins": [
             {
               "denom": "usomm",
