@@ -4,8 +4,8 @@
   "initial_height": "1",
   "consensus_params": {
     "block": {
-      "max_bytes": "22020096",
-      "max_gas": "-1",
+      "max_bytes": "2000000",
+      "max_gas": "20000000",
       "time_iota_ms": "1000"
     },
     "evidence": {
@@ -6725,7 +6725,7 @@
     "bank": {
       "params": {
         "send_enabled": [],
-        "default_send_enabled": false
+        "default_send_enabled": true
       },
       "balances": [
         {
@@ -7005,27 +7005,27 @@
         "voting_period": "172800s"
       },
       "tally_params": {
-        "quorum": "0.005000000000000000",
+        "quorum": "0.050000000000000000",
         "threshold": "0.500000000000000000",
         "veto_threshold": "0.334000000000000000"
       }
     },
     "gravity": {
       "params": {
-        "gravity_id": "defaultgravityid",
+        "gravity_id": "sommelier",
         "contract_source_hash": "",
         "bridge_ethereum_address": "0x0000000000000000000000000000000000000000",
-        "bridge_chain_id": "0",
+        "bridge_chain_id": "1",
         "signed_signer_set_txs_window": "10000",
         "signed_batches_window": "10000",
         "ethereum_signatures_window": "10000",
         "target_eth_tx_timeout": "43200000",
         "average_block_time": "5000",
         "average_ethereum_block_time": "15000",
-        "slash_fraction_signer_set_tx": "0.001000000000000000",
-        "slash_fraction_batch": "0.001000000000000000",
-        "slash_fraction_ethereum_signature": "0.001000000000000000",
-        "slash_fraction_conflicting_ethereum_signature": "0.001000000000000000",
+        "slash_fraction_signer_set_tx": "0.000000000000000000",
+        "slash_fraction_batch": "0.000000000000000000",
+        "slash_fraction_ethereum_signature": "0.000000000000000000",
+        "slash_fraction_conflicting_ethereum_signature": "0.000000000000000000",
         "unbond_slashing_signer_set_txs_window": "10000"
       },
       "last_observed_event_nonce": "0",
@@ -7083,9 +7083,9 @@
     "params": null,
     "slashing": {
       "params": {
-        "signed_blocks_window": "100",
-        "min_signed_per_window": "0.500000000000000000",
-        "downtime_jail_duration": "86400s",
+        "signed_blocks_window": "5000",
+        "min_signed_per_window": "0.050000000000000000",
+        "downtime_jail_duration": "8640s",
         "slash_fraction_double_sign": "0.000000000000000000",
         "slash_fraction_downtime": "0.000000000000000000"
       },
@@ -7094,8 +7094,8 @@
     },
     "staking": {
       "params": {
-        "unbonding_time": "1814400s",
-        "max_validators": 100,
+        "unbonding_time": "1209600s",
+        "max_validators": 50,
         "max_entries": 7,
         "historical_entries": 10000,
         "bond_denom": "usomm"
