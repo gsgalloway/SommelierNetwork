@@ -7094,7 +7094,7 @@
     },
     "staking": {
       "params": {
-        "unbonding_time": "1209600s",
+        "unbonding_time": "2419200s",
         "max_validators": 50,
         "max_entries": 7,
         "historical_entries": 10000,
