@@ -6849,7 +6849,7 @@
             "sequence": "0"
           },
           "name": "distribution",
-          "permissions": ["basic"]
+          "permissions": []
         }
       ]
     },
@@ -7119,6 +7119,9 @@
         }
       ]
     },
+    "authz": {
+      "authorization": []
+    },
     "capability": {
       "index": "1",
       "owners": []
@@ -7222,10 +7225,7 @@
       "connection_genesis": {
         "connections": [],
         "client_connection_paths": [],
-        "next_connection_sequence": "0",
-        "params": {
-          "max_expected_time_per_block": "30000000000"
-        }
+        "next_connection_sequence": "0"
       },
       "channel_genesis": {
         "channels": [],
