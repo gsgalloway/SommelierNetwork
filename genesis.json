@@ -6843,7 +6843,7 @@
         {
           "@type": "/cosmos.auth.v1beta1.ModuleAccount",
           "base_account": {
-            "account_number": "25178",
+            "account_number": "0",
             "address": "somm1jv65s3grqf6v6jl3dp4t6c9t9rk99cd8trtsc4",
             "pub_key": null,
             "sequence": "0"
@@ -7222,7 +7222,9 @@
       "connection_genesis": {
         "connections": [],
         "client_connection_paths": [],
-        "next_connection_sequence": "0"
+        "next_connection_sequence": "0",
+        "max_expected_time_per_block": "30000000000"
+
       },
       "channel_genesis": {
         "channels": [],
