@@ -7223,8 +7223,9 @@
         "connections": [],
         "client_connection_paths": [],
         "next_connection_sequence": "0",
-        "max_expected_time_per_block": "30000000000"
-
+        "params": {
+          "max_expected_time_per_block": "30000000000"
+        }
       },
       "channel_genesis": {
         "channels": [],
