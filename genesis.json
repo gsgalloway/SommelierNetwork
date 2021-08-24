@@ -40,8 +40,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [                {
+              "denom": "usomm",
+              "amount": "450000000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -391,8 +394,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [                {
+              "denom": "usomm",
+              "amount": "13500000000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -742,8 +748,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [                {
+              "denom": "usomm",
+              "amount": "2250000000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -1093,8 +1102,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [                {
+              "denom": "usomm",
+              "amount": "3150000000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -1444,8 +1456,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [                {
+              "denom": "usomm",
+              "amount": "1800000000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -1795,8 +1810,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [                {
+              "denom": "usomm",
+              "amount": "4500000000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -2146,8 +2164,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [                {
+              "denom": "usomm",
+              "amount": "13500000000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -2156,7 +2177,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "337495000000"
+                  "amount": "3375000000000"
                 }
               ]
             },
@@ -2165,7 +2186,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2174,7 +2195,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2183,7 +2204,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2192,7 +2213,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2201,7 +2222,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2210,7 +2231,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2219,7 +2240,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2228,7 +2249,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2237,7 +2258,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2246,7 +2267,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2255,7 +2276,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2264,7 +2285,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2273,7 +2294,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2282,7 +2303,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2291,7 +2312,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2300,7 +2321,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2309,7 +2330,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2318,7 +2339,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2327,7 +2348,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2336,7 +2357,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2345,7 +2366,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2354,7 +2375,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2363,7 +2384,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2372,7 +2393,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2381,7 +2402,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2390,7 +2411,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2399,7 +2420,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2408,7 +2429,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2417,7 +2438,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2426,7 +2447,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2435,7 +2456,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2444,7 +2465,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2453,7 +2474,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2462,7 +2483,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2471,7 +2492,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
             },
@@ -2480,11 +2501,10 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "28125000000"
+                  "amount": "281250000000"
                 }
               ]
-            }
-          ]
+            }]
         },
         {
           "@type": "/cosmos.vesting.v1beta1.PeriodicVestingAccount",
@@ -2497,8 +2517,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [                {
+              "denom": "usomm",
+              "amount": "486000000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -2848,8 +2871,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [                {
+              "denom": "usomm",
+              "amount": "306000000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -3199,8 +3225,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [  {
+              "denom": "usomm",
+              "amount": "306000000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -3550,8 +3579,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [  {
+              "denom": "usomm",
+              "amount": "4225500000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -3901,8 +3933,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [ {
+              "denom": "usomm",
+              "amount": "4225500000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -4252,8 +4287,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [ {
+              "denom": "usomm",
+              "amount": "4225500000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -4603,8 +4641,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [ {
+              "denom": "usomm",
+              "amount": "4225500000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -4954,8 +4995,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [ {
+              "denom": "usomm",
+              "amount": "1000000000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -5305,8 +5349,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [ {
+              "denom": "usomm",
+              "amount": "1000000000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -5656,8 +5703,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [ {
+              "denom": "usomm",
+              "amount": "1000000000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -6007,8 +6057,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [ {
+              "denom": "usomm",
+              "amount": "1000000000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -6358,8 +6411,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1751320800",
+            "original_vesting": [                {
+              "denom": "usomm",
+              "amount": "1000000000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -6716,8 +6772,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1656626400",
+            "original_vesting": [ {
+              "denom": "usomm",
+              "amount": "1000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -6743,8 +6802,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1656626400",
+            "original_vesting": [ {
+              "denom": "usomm",
+              "amount": "1000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -6770,8 +6832,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1656626400",
+            "original_vesting": [ {
+              "denom": "usomm",
+              "amount": "1000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -6797,8 +6862,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1656626400",
+            "original_vesting": [ {
+              "denom": "usomm",
+              "amount": "1000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -6824,8 +6892,11 @@
             },
             "delegated_free": [],
             "delegated_vesting": [],
-            "end_time": "1659218400",
-            "original_vesting": []
+            "end_time": "1656626400",
+            "original_vesting": [ {
+              "denom": "usomm",
+              "amount": "1000000"
+            }]
           },
           "start_time": "1625090400",
           "vesting_periods": [
@@ -7098,6 +7169,8 @@
       "denom_metadata": [
         {
           "description": "The native staking token of the Sommelier Chain",
+          "name": "Somm",
+          "symbol": "SOMM",
           "denom_units": [
             {
               "denom": "usomm",
@@ -7225,7 +7298,10 @@
       "connection_genesis": {
         "connections": [],
         "client_connection_paths": [],
-        "next_connection_sequence": "0"
+        "next_connection_sequence": "0",
+        "params": {
+          "max_expected_time_per_block": "30000000000"
+        }
       },
       "channel_genesis": {
         "channels": [],
