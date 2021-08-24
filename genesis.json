@@ -6726,7 +6726,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "1000000usomm"
+                  "amount": "1000000"
                 }
               ]
             }
@@ -6753,7 +6753,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "1000000usomm"
+                  "amount": "1000000"
                 }
               ]
             }
@@ -6780,7 +6780,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "1000000usomm"
+                  "amount": "1000000"
                 }
               ]
             }
@@ -6807,7 +6807,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "1000000usomm"
+                  "amount": "1000000"
                 }
               ]
             }
@@ -6834,7 +6834,7 @@
               "amount": [
                 {
                   "denom": "usomm",
-                  "amount": "1000000usomm"
+                  "amount": "1000000"
                 }
               ]
             }
