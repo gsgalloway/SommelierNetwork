@@ -8,7 +8,7 @@ cp genesis.json ~/.sommelier/config/genesis.json
 
 sommelier gentx validator {self-delegation-amount} \
     $(gorc --config $HOME/gorc/config.toml keys eth show signer) \
-    $(sommelier keys show validator --bech val -a) \
-    $(gorc sign-delegate-keys signer $(sommelier keys show validator --bech val -a) 1) \
+    $(sommelier keys show validator --bech acc -a) \
+    $(gorc sign-delegate-keys signer $(sommelier keys show validator --bech acc -a) 1) \
     --chain-id sommelier-1
 ```
