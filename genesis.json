@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2021-01-19T18:53:31.685Z",
+  "genesis_time": "2021-09-01T15:00:00.000Z",
   "chain_id": "sommelier-1",
   "initial_height": "1",
   "consensus_params": {
