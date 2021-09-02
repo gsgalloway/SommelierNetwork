@@ -30,9 +30,9 @@
       {
         "@type": "/gravity.v1.MsgDelegateKeys",
         "validator_address": "sommvaloper1ejqsr74xw6syh9nmukmqqtnnup4znwjmrkdmm0",
-        "orchestrator_address": "somm1ejqsr74xw6syh9nmukmqqtnnup4znwjmkgrxuq",
+        "orchestrator_address": "somm1r0a9my57l85ycyy8wercpmpdaxv345n75aldnm",
         "ethereum_address": "0xfbA500406FcE5e9C6bf394D2701DcFC3845D4B6d",
-        "eth_signature": "awnZxCHRMelk2MahcN+u70T2UPMbB4Giu8WcamzAQKk8lCtsgaf75IBWcoj4rdNc+mbHlfLC6kQBzjubgyB6ixs="
+        "eth_signature": "OMzmntYMUaHaATlodQK6nsD1MdFrEZNLQ9pl269m901VTDkSZ1Fm4Z1Tc0oILR4ntVksNtp93I5O3qLUgOqKzxs="
       }
     ],
     "memo": "e1d1dd22a63b1899ac51c8c96416f77c8ef98231@10.142.0.62:26656",
@@ -63,6 +63,6 @@
     }
   },
   "signatures": [
-    "TMCuRiF/F9OpqvTXRjUGqIueBB+OFRxssCTcDkt0WzEbV7NchzX68Em/GXifOvEMe6R3d/9UCLj3W7UOTvS4gQ=="
+    "HkbYV1CgJIpTTx4ZSfHmXKJSvhrSOKzlPOpfE5NeZrdYq4bo+6oeFWa1YhAa3T+reCdog00YDr2rJSOQx4f8kA=="
   ]
 }
