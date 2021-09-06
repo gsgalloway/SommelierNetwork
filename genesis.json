@@ -7264,9 +7264,9 @@
         "contract_source_hash": "",
         "bridge_ethereum_address": "0x0000000000000000000000000000000000000000",
         "bridge_chain_id": "1",
-        "signed_signer_set_txs_window": "10000",
-        "signed_batches_window": "10000",
-        "ethereum_signatures_window": "10000",
+        "signed_signer_set_txs_window": "30000",
+        "signed_batches_window": "30000",
+        "ethereum_signatures_window": "30000",
         "target_eth_tx_timeout": "43200000",
         "average_block_time": "5000",
         "average_ethereum_block_time": "15000",
@@ -7274,7 +7274,7 @@
         "slash_fraction_batch": "0.000000000000000000",
         "slash_fraction_ethereum_signature": "0.000000000000000000",
         "slash_fraction_conflicting_ethereum_signature": "0.000000000000000000",
-        "unbond_slashing_signer_set_txs_window": "10000"
+        "unbond_slashing_signer_set_txs_window": "30000"
       },
       "last_observed_event_nonce": "0",
       "outgoing_txs": [],
