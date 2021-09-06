@@ -32,7 +32,7 @@
             "validator_address":"sommvaloper173xq5ys8m7pvs2hesuz4ccx9mjuz2pthkq0zfj",
             "orchestrator_address":"somm148a27t9usz9u5xzzjnkt2u8fergs48935dzdnt",
             "ethereum_address":"0xeBbb780845F68920a805f1D69aB4Af7d0eFC7DF5",
-            "eth_signature":"lreHtchHVMJzBQtRC20JprtmjSp+UcsbrrRpHOW88NVV9Ph+vAxcmjJOQXm3bMlW38aiHmsB1AYbXgFbK2ExTRw="
+            "eth_signature":"j0UyL77L3DsGSmuhTGTao7eHSR3V6TB+K/nOkV9xpRBt16g/xNab8KppcJFMke1v/YmwPjSmYm3s4MRedG+QEhs="
          }
       ],
       "memo":"a6aefd337d9203b081dd9e42eab199ff3882193f@sommelier.standardcryptovc.com:26656",
@@ -69,6 +69,6 @@
       }
    },
    "signatures":[
-      "68d2K89V6SHh69fUcyf5h3DpCsP9RYFPC1I0SIAc3MsT2xdWpSooZDHXNzH7KUpKIrvSpDje7MZAqnO/Fc6MvA=="
+      "KQOKqQmOs/Db0mlUrhh/Kslt5DtImGovKFXf8OuvsRZyP1HvFetswSfVc9MTJuTKTOcbnej2+4dkveG9xDLeSQ=="
    ]
 }
