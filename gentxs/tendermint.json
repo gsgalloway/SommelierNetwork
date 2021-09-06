@@ -32,7 +32,7 @@
         "validator_address": "sommvaloper1ejqsr74xw6syh9nmukmqqtnnup4znwjmrkdmm0",
         "orchestrator_address": "somm1r0a9my57l85ycyy8wercpmpdaxv345n75aldnm",
         "ethereum_address": "0xfbA500406FcE5e9C6bf394D2701DcFC3845D4B6d",
-        "eth_signature": "OMzmntYMUaHaATlodQK6nsD1MdFrEZNLQ9pl269m901VTDkSZ1Fm4Z1Tc0oILR4ntVksNtp93I5O3qLUgOqKzxs="
+        "eth_signature": "M89f+FKGHDpar6qBKVLkaM0GJNwq/jWAuJU++AGvHn0T0VeSNwvjSzLSZseBn2BJWANUEzRkZDwj2wx4FKFkuhs="
       }
     ],
     "memo": "e1d1dd22a63b1899ac51c8c96416f77c8ef98231@10.142.0.62:26656",
@@ -63,6 +63,6 @@
     }
   },
   "signatures": [
-    "HkbYV1CgJIpTTx4ZSfHmXKJSvhrSOKzlPOpfE5NeZrdYq4bo+6oeFWa1YhAa3T+reCdog00YDr2rJSOQx4f8kA=="
+    "iBraflIIj8Rh0rR/7pxJO+fpFpdoEse9GgRGr90qTJAIseXGrDbvDEtkgWX37tjZc6UU7LA1k00Avf2s2n0Ofw=="
   ]
 }
