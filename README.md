@@ -4,7 +4,7 @@ Sommelier Network will go live on `7 Sept 21 @ 15:00 UTC`.
 
 ```bash
 $ shasum -a 256 genesis.json
-6337fa8078949fb7eeb7dda951c2844e3991e7f23872ad36c92154bdff6ae030  genesis.json
+7ffe09bd04aba96ea0a52798215a1f2fb33b42c8d753cb266af553b4f6271f9e  genesis.json
 ```
 
 When you have your node ready to go, [please share you peering information with the other validators.](https://docs.google.com/spreadsheets/d/13LzGA2-0sgXQxdGPknCYDyUsjbBtMoY4VeLKxHNZzW8/edit#gid=0)
