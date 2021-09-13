@@ -7095,38 +7095,6 @@
           "base_vesting_account": {
             "base_account": {
               "account_number": "0",
-              "address": "somm19ts4umurauutumqdcu5n8x73fn9dfwwshhf8a4",
-              "pub_key": null,
-              "sequence": "0"
-            },
-            "delegated_free": [],
-            "delegated_vesting": [],
-            "end_time": "1656626400",
-            "original_vesting": [
-              {
-                "denom": "usomm",
-                "amount": "1000000"
-              }
-            ]
-          },
-          "start_time": "1625090400",
-          "vesting_periods": [
-            {
-              "length": 31536000,
-              "amount": [
-                {
-                  "denom": "usomm",
-                  "amount": "1000000"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "@type": "/cosmos.vesting.v1beta1.PeriodicVestingAccount",
-          "base_vesting_account": {
-            "base_account": {
-              "account_number": "0",
               "address": "somm1r0a9my57l85ycyy8wercpmpdaxv345n75aldnm",
               "pub_key": null,
               "sequence": "0"
