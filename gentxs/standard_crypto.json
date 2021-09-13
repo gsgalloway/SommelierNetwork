@@ -35,7 +35,7 @@
             "eth_signature":"j0UyL77L3DsGSmuhTGTao7eHSR3V6TB+K/nOkV9xpRBt16g/xNab8KppcJFMke1v/YmwPjSmYm3s4MRedG+QEhs="
          }
       ],
-      "memo":"a6aefd337d9203b081dd9e42eab199ff3882193f@sommelier.standardcryptovc.com:26656",
+      "memo":"6533beebc826f84376e503bbc3265b07b26b9ad5@sommelier.standardcryptovc.com:26656",
       "timeout_height":"0",
       "extension_options":[
          
@@ -69,6 +69,6 @@
       }
    },
    "signatures":[
-      "KQOKqQmOs/Db0mlUrhh/Kslt5DtImGovKFXf8OuvsRZyP1HvFetswSfVc9MTJuTKTOcbnej2+4dkveG9xDLeSQ=="
+      "xw9Y4Gf1HwEOJqiop5PZiffZYLUzqKTtDJYy6jnrmN8O+ANrldogxH/InaS/soPEYppFSLTAVsEH1XdkwznbqA=="
    ]
 }
